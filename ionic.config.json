@@ -1,0 +1,8 @@
+{
+  "name": "apolloevoionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "75ab7099"
+}
